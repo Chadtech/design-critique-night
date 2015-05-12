@@ -23,12 +23,8 @@ IndexClass = React.createClass
             style:
               width: '100%'
 
-            # p
-            #   className: 'header'
-            #   'Design Critique Night'
-
             p
-              className: 'point b'
+              className: 'header'
               'Design Critique Night'
 
 
